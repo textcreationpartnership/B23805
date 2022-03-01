@@ -1,0 +1,421 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for the abatement of interest to four in the hundred and the objections against it fairly stated and briefly and fully answered / by E.H.</title>
+            <author>E. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23805</idno>
+            <idno type="STC">Wing H21</idno>
+            <idno type="EEBO-CITATION">15735405</idno>
+            <idno type="OCLC">ocm 15735405</idno>
+            <idno type="VID">206199</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206199)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1593:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for the abatement of interest to four in the hundred and the objections against it fairly stated and briefly and fully answered / by E.H.</title>
+                  <author>E. H.</author>
+               </titleStmt>
+               <extent>[4], 66 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Daniel Brown and Matt. Gillyflower ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Interest --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Economic conditions --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206199:1" rendition="simple:additions"/>
+            <p>REASONS FOR THE Abatement of Intereſt TO FOUR in the HUNDRED.</p>
+            <p>AND The OBJECTIONS againſt it fairly STATED, and briefly and fully ANSWER'D.</p>
+            <p>By <hi>E. H.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Daniel Brown,</hi> and <hi>Matt. Gilly<g ref="char:EOLhyphen"/>flower;</hi> at the <hi>Bible</hi> without <hi>Temple-Bar,</hi> and at the <hi>Spread-Eagle</hi> in <hi>Weſtminſter-Hall.</hi> 1692.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:206199:2"/>
+            <pb facs="tcp:206199:2"/>
+            <head>The CONTENTS of the following Diſcourſe, are theſe, <hi>viz.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>CHAP. 1.</hi> The chief Ad<g ref="char:EOLhyphen"/>vantages propounded by bringing down Intereſt from Six to Four <hi>per Cent. per Annum,</hi> are, 1. That it will increaſe Trade. <hi>p. 1.</hi>
+               </item>
+               <item>
+                  <hi>Chap. 2.</hi> The Abatement of In<g ref="char:EOLhyphen"/>tereſt will raiſe the Value of Land. <hi>p. 25</hi>
+               </item>
+               <item>
+                  <hi>Chap. 3.</hi> That it will improve Rents, or at leaſt enable the Farmer to pay his Rent bet<g ref="char:EOLhyphen"/>ter. <hi>p. 30</hi>
+               </item>
+               <pb facs="tcp:206199:3"/>
+               <item>
+                  <hi>Chap. 4.</hi> The Objections againſt the Abatement of Intereſt, fairly ſtated, and clearly an<g ref="char:EOLhyphen"/>ſwer'd. <hi>p. 38.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:206199:3"/>
+            <head>REASONS FOR THE Abatement of Intereſt, <hi>&amp;c.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <argument>
+                  <p>The chief Advantages propounded by bringing down Intereſt from Six to Four <hi>per Cent. per Annum,</hi> are, 1. That it will increaſe Trade.</p>
+               </argument>
+               <p>BEFORE I endeavour to prove, That an Abatement of Intereſt to Four in the Hundred, will be very beneficial to the Nation, or go about to Anſwer the Objections
+<pb n="2" facs="tcp:206199:4"/> which are commonly made againſt it; I think it not amiſs to pre<g ref="char:EOLhyphen"/>miſe, that I will not undertake to evince, that only the lowering of Intereſt will at any time force a Trade, tho it lye under never ſo many Obſtructions or Reſtraints; no, that ſurely will not be expect<g ref="char:EOLhyphen"/>ed, nor can it be reaſonably imagin'd, that the bare leſſening of Uſe, can make us drive a grea<g ref="char:EOLhyphen"/>ter Trade in time of War, than we had in time of Peace, tho Intereſt was at 6 <hi>per Cent.</hi> I hope it will be ſufficient to induce Gen<g ref="char:EOLhyphen"/>tlemen to promote a Bill to lower Intereſt, if it can be prov'd, That when Trade is open, it ſhall be greater when Intereſt is low, than it can be when Intereſt is high; if it can be prov'd, That even a reſtrain'd Trade ſhall be greater with a low Intereſt, then it can be with an higher. If I can make it appear, That Land in time
+<pb n="3" facs="tcp:206199:4"/> of War as well as Peace, will ſell for more, if Intereſt be at Four, than it will if it be at Six <hi>per. Cent.</hi> This I doubt not will be ſufficient to convince the Reader, that the lowering of Intereſt to Four in the Hundred, will be very advanta<g ref="char:EOLhyphen"/>geous to the Nation. I will not take up the Reader's time with a longer Introduction; but will be<g ref="char:EOLhyphen"/>gin with the firſt Benefit propound<g ref="char:EOLhyphen"/>ed to be diſcuſs'd, <hi>viz.</hi> That the leſſening of Intereſt to Four in the Hundred, will encourage and pro<g ref="char:EOLhyphen"/>mote Trade. Only give me leave here to prefix the preamble of an Act of Parliament made in the twenty firſt year of <hi>Jac. 1. cap.</hi> 17. and another made in the 12 <hi>Car. 2. cap.</hi> 13.</p>
+               <p>
+                  <q rend="margQuotes">Whereas at this time,<note place="margin">21 Jac. 1. cap. 17.</note> there is a very great A<g ref="char:EOLhyphen"/>batement in the value of Land, and other the Merchandizes, Wares, and Commodities of this
+<pb n="4" facs="tcp:206199:5"/> Kingdom, both at Home, and al<g ref="char:EOLhyphen"/>ſo in Foreign Parts, whither they are tranſported. (2.) And where<g ref="char:EOLhyphen"/>as divers the Subjects of this King<g ref="char:EOLhyphen"/>dom, as well the Gentry as Mer<g ref="char:EOLhyphen"/>chants, Farmers, and Tradeſmen, both for their urgent and neceſſary Occaſions, for the following their Trades, maintenance of their Stocks and Imployments, have borrow'd and do borrow divers Sums of Money, Wares, Mer<g ref="char:EOLhyphen"/>chandiſes, and other Commodi<g ref="char:EOLhyphen"/>ties. (3.) But by reaſon of the ſaid general fall and abatement of the value of Land, and the prices of the ſaid Merchandize, Wares, and Commodities, and Intereſt in Loan continuing at ſo high a rate, as Ten pounds in the Hundred pounds for a year, doth not only make Men unable to pay their Debts, and continue the mainte<g ref="char:EOLhyphen"/>nance of Trade; but their Debts daily increaſing, they are enforc'd
+<pb n="5" facs="tcp:206199:5"/> to ſell their Lands and Stocks at very low Rates, to forſake the uſe of Merchandize and Trade, and to give over their Leaſes and Farms, and ſo become unprofita<g ref="char:EOLhyphen"/>ble Members of the Common<g ref="char:EOLhyphen"/>wealth, to the great hurt and hin<g ref="char:EOLhyphen"/>derance of the ſame:</q> 
+                  <hi>Be it therefore,</hi> &amp;c.</p>
+               <p>
+                  <q rend="margQuotes">Foraſmuch as the A<g ref="char:EOLhyphen"/>batement<note place="margin">12 Car. 2. cap. 13.</note> of Intereſt from Ten in the hundred in for<g ref="char:EOLhyphen"/>mer times, hath been found by no<g ref="char:EOLhyphen"/>table Experience beneficial to the advancement of Trade, and im<g ref="char:EOLhyphen"/>provement of Lands by good Huſ<g ref="char:EOLhyphen"/>bandry, with many other conſi<g ref="char:EOLhyphen"/>derable advantages to this Nati<g ref="char:EOLhyphen"/>on, eſpecially, the reducing it to a nearer proportion with Foreign States, with whom we Traffick. (2.) And whereas in freſh me<g ref="char:EOLhyphen"/>mory the like fall from Eight to Six in the Hundred, by a late conſtant practice hath found the
+<pb n="6" facs="tcp:206199:6"/> like ſucceſs to the general Con<g ref="char:EOLhyphen"/>tentment of this Nation, as is viſible by ſeveral Improvements. (3.) And whereas it is the endea<g ref="char:EOLhyphen"/>vour of ſome at preſent to reduce it back again in practice, to the allowance of the Statute ſtill in force to Eight in the Hundred, to the great diſcouragement of In<g ref="char:EOLhyphen"/>genuity and Induſtry, in the Huſ<g ref="char:EOLhyphen"/>bandry, Trade and Commerce of this Nation:</q> 
+                  <hi>Be it therefore</hi> &amp;c.</p>
+               <p>That an Abatement of Intereſt to Four in the Hundred, will in<g ref="char:EOLhyphen"/>creaſe Trade, I ſhall prove by theſe following Arguments.</p>
+               <p>All Merchants that<note place="margin">
+                     <hi>N. B. M. D.</hi> in his Diſc. of Trade.</note> Trade in the ſame ſort of Goods to the ſame Ports, ſhould Trade by the ſame Intereſt, or elſe the Gain cannot be equal.</p>
+               <p>Intereſt is the Rule of Buying and Selling, and being higher in
+<pb n="7" facs="tcp:206199:6"/> 
+                  <hi>England</hi> than in <hi>Holland;</hi> the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Merchant trades with a diſad<g ref="char:EOLhyphen"/>vantage, becauſe the <hi>Dutch</hi> Mer<g ref="char:EOLhyphen"/>chant can afford to give more, to buy dearer, and ſell cheaper than the <hi>Engliſh</hi> can, and yet ſhall gain more.</p>
+               <p>The <hi>Dutch</hi> can ſell an hundred pound worth of Goods for 103 <hi>l.</hi> and the <hi>Engliſh</hi> muſt ſell the ſame ſort and quantity for 106 <hi>l.</hi> to make the ſame account of the Principal and Intereſt.</p>
+               <p>The <hi>Dutch</hi> may give 1 <hi>per Cent.</hi> more for the ſame quantity of the ſame ſort of Goods, (as the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> deal in) and ſell for 1 <hi>l. per Cent.</hi> leſs than they, and yet ſhall gain 1 <hi>per Cent.</hi> As for inſtance, the <hi>Dutch</hi> may give 101 <hi>l.</hi> for the ſame quantity of Goods (which I ſuppoſe the <hi>Engliſh</hi> to buy at 100 <hi>l.</hi>) may ſell theſe at 105 <hi>l.</hi> and will gain 1 <hi>per Cent.</hi> whereas the
+<pb n="8" facs="tcp:206199:7"/> 
+                  <hi>Engliſh,</hi> if they ſell at 106 <hi>l.</hi> ſhall gain nothing.</p>
+               <p>When we had almoſt the<note place="margin">Ibid.</note> ſole Trade of <hi>Spain,</hi> and the ſole ſelling of Cloth into <hi>Turky,</hi> and ſeveral other places; the dif<g ref="char:EOLhyphen"/>ference of Intereſt was then not ſo conſiderable a prejudice to Trade (tho Intereſt was then in <hi>England</hi> at 8 <hi>per Cent.</hi>) becauſe whoſoever hath the ſole Trade to any place, may ſet what price he pleaſeth upon his Goods; but now Trade is diſperſt; the ſame ſort of Manufacture is made in ſe<g ref="char:EOLhyphen"/>veral Countries; the <hi>Dutch</hi> and <hi>Engliſh</hi> trade in the ſame ſort of Goods, to the ſame Foreign Parts, and therefore they ought to deal by the ſame Intereſt (which is the meaſure of Trade) or elſe the <hi>Dutch</hi> may underſel us, and ſo muſt beat us out of our Trade.</p>
+               <pb n="9" facs="tcp:206199:7"/>
+               <p>By this difference of In<g ref="char:EOLhyphen"/>tereſt,<note place="margin">Ibid</note> 
+                  <hi>Holland</hi> is become the great Magazine, and Store<g ref="char:EOLhyphen"/>houſe, for all ſorts of Goods; for they may be laid up cheaper there than here.</p>
+               <p>It is impoſſible for the<note place="margin">Ibid.</note> Merchant, when he hath bought his Goods, to know what he ſhall ſell them for: The value of them depends upon the differences betwixt the Occaſion, and the Quantity; tho that be the chiefeſt of the Merchants care to obſerve, yet it depends upon ſo many Cir<g ref="char:EOLhyphen"/>cumſtances, that it is impoſſible to know it; therefore, if the plen<g ref="char:EOLhyphen"/>ty of the Goods hath brought down the Price, the Merchant lay<g ref="char:EOLhyphen"/>eth them up till the Quantity is conſum'd, and the Price riſeth; but the Engliſh Merchant cannot lay up his, but with diſadvantage; for, by that time the Price is riſen ſo, as to pay Charges and Intereſt,
+<pb n="10" facs="tcp:206199:8"/> at 6 <hi>per Cent.</hi> the ſame Goods are ſent for from <hi>Holland,</hi> and bring down the Price; for they are laid up there at 3 <hi>per Cent.</hi> and can therefore be ſold Cheaper.</p>
+               <p>For want of conſidering<note place="margin">Ibid.</note> this in <hi>England,</hi> many an Engliſh Merchant hath been un<g ref="char:EOLhyphen"/>done; for tho by obſerving the Bill of Lading, he was able to make ſome gueſs of the Stock im<g ref="char:EOLhyphen"/>ported here; and therefore hath kept his Goods by him for a Riſe: Yet not knowing what Stock there was in <hi>Holland,</hi> hath not been a<g ref="char:EOLhyphen"/>ble to ſell his Goods to Profit; the ſame ſort of Goods being brought from thence before the Price riſeth high enough to pay Ware-houſe<g ref="char:EOLhyphen"/>room and Intereſt.</p>
+               <p>So that now the greateſt part of the Engliſh Trade is driven by a quick return, every day Buying and Selling, according to a Bill of Rate every day printed: By this
+<pb n="11" facs="tcp:206199:8"/> means the Engliſh Trade is nar<g ref="char:EOLhyphen"/>row'd and confin'd; the King lo<g ref="char:EOLhyphen"/>ſeth the Revenue of Importation, and Exportation, which he would have, if <hi>England</hi> was the Maga<g ref="char:EOLhyphen"/>zine of <hi>Europe;</hi> and the Nation loſeth the profit which would a<g ref="char:EOLhyphen"/>riſe from the hands imploy'd in Freight and Shipping.</p>
+               <p>High Intereſt decays Trade; ſor, where the Advantage from Uſury is greater than the Profit from Trade; there the rich Merchants give over, and put out their Stock to Uſury; and the poorer Mer<g ref="char:EOLhyphen"/>chants, and others, who carry on a Trade with borrow'd Money, muſt break: Nay, further, whilſt Intereſt is at Six <hi>per Cent.</hi> few will run the hazard at Sea, (even in time of Peace) for their gain of Eight or Nine <hi>per Cent.</hi> And how then can we expect any Foreign Trade in time of War?</p>
+               <pb n="12" facs="tcp:206199:9"/>
+               <p>When Intereſt was at Ten in the Hundred, no wiſe man would follow any Trade whereby he could not promiſe himſelf Four<g ref="char:EOLhyphen"/>teen, or Twelve <hi>per Cent.</hi> gain at leaſt. Now Intereſt goes at Six <hi>per Cent.</hi> the hopes of Nine, or at leaſt Eight, is neceſſary; the in<g ref="char:EOLhyphen"/>fallible conſequence whereof is, That all Trades that will not af<g ref="char:EOLhyphen"/>ford a clear profit of Nine, or at leaſt Eight <hi>per Cent.</hi> we muſt neg<g ref="char:EOLhyphen"/>lect, and give away to ſuch who can Trade for leſs Gain, and muſt do ſo for ever, unleſs we bring our Intereſt to a nearer proportion with our Neighbours.</p>
+               <p>Abatement of Intereſt will mul<g ref="char:EOLhyphen"/>tiply Traders as well in <hi>England,</hi> as it hath done in <hi>Holland</hi> already, to ſuch a degree, that almoſt all their People of both Sexes are Tra<g ref="char:EOLhyphen"/>ders; and the many Traders will oblige the Merchants to ſell for leſs Profit, by which means the bulk
+<pb n="13" facs="tcp:206199:9"/> of Trade will be increas'd. (which will be no diſadvantage to the Na<g ref="char:EOLhyphen"/>tion, tho private men ſhould gain leſs) And this is the true reaſon why many conſiderable Merchants (who continue on their Trades) are againſt the leſſening of Intereſt.</p>
+               <p>If Intreſt be abated to Four in the Hundred: Who will not, that can leave his Children an Eſtate of a thouſand, or two thouſand Pound, bring them up to Arith<g ref="char:EOLhyphen"/>metick, Merchants Accounts, and put them out to Trades, well knowing that the bare Uſe of their Money, or the product of it in Land, will ſcarcely maintain them.</p>
+               <p>Two <hi>per Cent.</hi> extraordinary in Intereſt, is an heavier burthen up<g ref="char:EOLhyphen"/>on the Merchants, than Four <hi>per Cent.</hi> extraordinary in Cuſtoms; becauſe Cuſtoms run only upon Goods Imported, or Exported, and that but once; whereas Uſe falls as well upon Ships, as Goods,
+<pb n="14" facs="tcp:206199:10"/> and muſt be yearly paid on both; and the Ships in many bulky Trades are of four times the va<g ref="char:EOLhyphen"/>lue of the Goods.</p>
+               <p>An Anonymous Author in his diſcourſe of Trade, <hi>pag.</hi> 10. ſaith, That the Trade of <hi>England</hi> was in<g ref="char:EOLhyphen"/>conſiderable, and the Merchants very mean and few, when Intereſt was at 10 <hi>per Cent.</hi> and that with<g ref="char:EOLhyphen"/>in Ten years after Intereſt was brought down to Eight in the Hundred, <hi>viz.</hi> An. 1635. there were more Merchants to be found, worth each 1000 <hi>l.</hi> and upwards, than could be found, before the year 1600, worth 100 <hi>l.</hi> each.</p>
+               <p>And now ſince Intereſt hath been at 6 <hi>per Cent.</hi> there are more to be found upon the <hi>Exchange,</hi> worth 10000 <hi>l.</hi> than were then to be met with worth 1000 <hi>l.</hi>
+               </p>
+               <p>The encreaſe of our Trade hath always follow'd, not preceded the Abatement of Uſe by Law; if
+<pb n="15" facs="tcp:206199:10"/> this be doubted, ask the<note place="margin">Diſcourſe of Trade.</note> Aged, and they will tell you, that 500 <hi>l.</hi> with a Daughter Sixty years ago, was eſteem'd a larger Portion than 2000 <hi>l.</hi> now: Gentlewomen in thoſe days would think themſelves well dreſs'd in a Searge Gown, which a Chamber<g ref="char:EOLhyphen"/>maid now will be aſham'd to be ſeen in. The Citizens now are richer in Cloaths, Houſhold-Goods, Plate, Jewels, than the richeſt No<g ref="char:EOLhyphen"/>bility and Gentry were then.</p>
+               <p>Where Intereſt is high, the peo<g ref="char:EOLhyphen"/>ple are poor, and Money ſcarce; as for inſtance, in <hi>Spain, Scotland,</hi> and <hi>Ireland,</hi> where Money lately was (and for what I know ſtill is) at 10 and 12 <hi>per Cent.</hi> the In<g ref="char:EOLhyphen"/>habitants are poor, ill fed, and meanly clad; tho <hi>Ireland</hi> and <hi>Spain</hi> are very fruitful Countries; and to the laſt, all the Gold and Silver of the <hi>Indies</hi> are brought.</p>
+               <pb n="16" facs="tcp:206199:11"/>
+               <p>I come now to decide a Queſti<g ref="char:EOLhyphen"/>on often ſtarted in this Controver<g ref="char:EOLhyphen"/>ſy, <hi>viz.</hi>
+               </p>
+               <p>Whether the lowneſs of Inte<g ref="char:EOLhyphen"/>reſt be the cauſe, or the effect of Riches?</p>
+               <p>Many who write againſt the A<g ref="char:EOLhyphen"/>batement of Intereſt, do aſſert, That it is not the cauſe, but the effect of Riches.</p>
+               <p>In anſwer to this (leſt what hath been ſaid upon this Subject, ſhould not fully ſatisfie the Curio<g ref="char:EOLhyphen"/>ſity of the Reader) I will here add ſomething more:</p>
+               <p>Firſt, I preſume this <hi>Poſtula<g ref="char:EOLhyphen"/>tum</hi> will be granted, That Trade doth imploy the Poor, doth mul<g ref="char:EOLhyphen"/>tiply Home-Artificers, doth fill the Nation with People, doth car<g ref="char:EOLhyphen"/>ry out the Product of our Land, doth bring in Money; all which are the cauſe of Riches. This be<g ref="char:EOLhyphen"/>ing granted, I will not be ſo diſ<g ref="char:EOLhyphen"/>ingenious, as to affirm, that Riches
+<pb n="17" facs="tcp:206199:11"/> will not bring Intereſt down; but what can be inferr'd from thence? that a low Intereſt cannot be the cauſe of Riches? No certainly, that Inference can never be made; for, if Trade be that which en<g ref="char:EOLhyphen"/>richeth a Nation, and if the low<g ref="char:EOLhyphen"/>ering of Intereſt advanceth Trade, (which, I hope, is before ſuffici<g ref="char:EOLhyphen"/>ently prov'd) then it follows, That the Abatement of Intereſt is, doubtleſs, a principal cauſe of Riches; for it is not abſurd, nor improper to ſay, That the ſame thing may be both a Cauſe and an Effect.</p>
+               <p>Peace may cauſe Plenty, and Plenty preſerve Peace: Fear beget Hatred, and Hatred may beget Fear: The Fertility of a Country may multiply People, and the multiplication of People may cauſe a greater Fertility in that Country; ſo the Abatement of Intereſt cauſeth an encreaſe of
+<pb n="18" facs="tcp:206199:12"/> Wealth; and the encreaſe of Wealth, may cauſe a further A<g ref="char:EOLhyphen"/>batement of Intereſt.</p>
+               <p>Since our firſt Abate<g ref="char:EOLhyphen"/>ment<note place="margin">Diſcourſe of Trade.</note> of Intereſt, the Riches and Splendour of this Kingdom is very much increas'd; as appears from the new Buildings, fine Furni<g ref="char:EOLhyphen"/>ture, and number of Coaches; from our Shipping and Naviga<g ref="char:EOLhyphen"/>tion, from the improvement of our Cuſtoms, which doth not pro<g ref="char:EOLhyphen"/>ceed ſo much from the advance<g ref="char:EOLhyphen"/>ment of the Rates of Goods, as from the encreaſe of the bulk of Trade; for tho ſome Foreign Commodities and Manufactures are advanc'd; yet others of our Native Commodities and Manu<g ref="char:EOLhyphen"/>factures are conſiderably abated in the Book of Rates.</p>
+               <p>
+                  <hi>England</hi> hath been enrich'd con<g ref="char:EOLhyphen"/>ſtantly, and proportionably to, and after our ſeveral Abatements of Intereſt by Law, from an Un<g ref="char:EOLhyphen"/>limited
+<pb n="19" facs="tcp:206199:12"/> Rate, to Ten; from Ten to Eight, and from Eight to Six, in the Hundred: And I think it may reaſonably be hoped, that a fur<g ref="char:EOLhyphen"/>ther Abatement will produce more Riches, as well here, as it hath done in <hi>Holland.</hi>
+               </p>
+               <p>As it hath been in <hi>England,</hi> ſo my Author ſaith, it is in all <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi> and other parts of the World; inſomuch, that to know whether any Country be Rich or Poor, or in what proportion it is ſo: The reſolution of this Queſtion, <hi>viz.</hi> What Intereſt do they pay for Mo<g ref="char:EOLhyphen"/>ney? will tell you; for all Coun<g ref="char:EOLhyphen"/>tries are at this day Richer, or Poorer, in an exact proportion to what they pay, and have uſually paid for the Intereſt of Money.</p>
+               <p>That an Abatement of Intereſt would encreaſe Trade, (which is the cauſe of Riches) and would raiſe the value of Land, and keep up Rents, was the opinion of the
+<pb n="20" facs="tcp:206199:13"/> Parliament, in the 21 <hi>Jac.</hi> 1. and of another in the 12 <hi>Car.</hi> 2. as appears in the Preamble to thoſe Acts, which I deſire the Reader once more to look over again. That they were not miſtaken in their Sentiments, is evident from Seventy years Obſervation, beyond all Contradiction; inſomuch, that it muſt be granted by all Engliſh<g ref="char:EOLhyphen"/>men, for it can no longer be made a Queſtion, That to abate Intereſt, will advance Land, and encreaſe Trade; and conſequently is the cauſe of Riches.</p>
+               <p>It is confeſt on all hands, that in <hi>Holland</hi> Intereſt is lower than in <hi>England;</hi> but ſome are pleas'd to ſay, That is not the effect of Laws, but proceeds only from the Plenty of Money; for in <hi>Holland</hi> there is no Law reſtraining Uſury: To which I anſwer out of my Ano<g ref="char:EOLhyphen"/>nymous Author in his Diſcourſe of Trade, That it may be true, that
+<pb n="21" facs="tcp:206199:13"/> in <hi>Holland,</hi> there hath not lately been any Law to limit Uſury to the preſent Rate it is now at, <hi>viz.</hi> 3 or 4 <hi>per Cent.;</hi> yet moſt certain it is, that many years ſince, there were Laws in <hi>Holland,</hi> that re<g ref="char:EOLhyphen"/>duc'd Intereſt to 8, 6, and after<g ref="char:EOLhyphen"/>wards to 5 <hi>per Cent.</hi> An. 1640. and in the year 1655. to 4. <hi>per Cent.</hi> as he affirms, <hi>pag.</hi> 31. and no doubt but they would by Law leſſen Uſury ſtill, were it neceſſa<g ref="char:EOLhyphen"/>ry at this time; It having always been the policy of that State, to keep down the Intereſt of their Money 3 or 4 <hi>per Cent.</hi> under the Rate of what is uſually paid in their Neighbouring Countries; we never yet abated our Intereſt, but they ſoon after abated theirs.</p>
+               <p>Intereſt hath been at 6 <hi>per Cent.</hi> in <hi>Holland;</hi> but after it was re<g ref="char:EOLhyphen"/>duc'd to Eight in <hi>England,</hi> it was reduc'd to Four in <hi>Holland;</hi> and now being at Six here, 'tis there
+<pb n="22" facs="tcp:206199:14"/> at Three; ſo that they have al<g ref="char:EOLhyphen"/>ways kept the ſame advantage in Trade, from our over-ballance by Uſury; well underſtanding the Profit they have from thence.</p>
+               <p>It may not be impertinent to recite here ſo much of the French King's Edict, as concerns this matter; for, perhaps all may not elſewhere come to the ſight of it.</p>
+               <p>He found that Ten or Eight in the Hundred, did ruine many good Families, hindered the Traf<g ref="char:EOLhyphen"/>fick and Commerce of Merchan<g ref="char:EOLhyphen"/>dize, and made Tillage cheap, and Handicrafts to be neglected; many deſiring, through the eaſi<g ref="char:EOLhyphen"/>neſs of a deceitful Gain, to live idlely, rather than give themſelves to Arts, or to Till, or Husband their Lands: For theſe Reaſons he did forbid all Uſury at an higher Rate than 6 <hi>l. 5 sh.</hi> in the Hun<g ref="char:EOLhyphen"/>dred.</p>
+               <pb n="23" facs="tcp:206199:14"/>
+               <p>This Edict was ratify'd in the Court of Parliament. I have tranſcrib'd this out of a diſcourſe of Trade, <hi>pag.</hi> 51.</p>
+               <p>Should I purſue all the advan<g ref="char:EOLhyphen"/>tages to Trade, (which may rea<g ref="char:EOLhyphen"/>ſonably be hoped for, from an A<g ref="char:EOLhyphen"/>batement of Intereſt) or, ſhould I enumerate all the benefits which will redound to the Kingdom, by the encouragement and encreaſe of Trade; this Piece would ſwell into a large Volume. I need not tell you of what great uſe the lowering of Intereſt would be to the Government; That the King might with much leſs Charge build Ships, and ſet out his Fleet; that all Ammunition, and other Neceſſaries for the Army would be much cheaper; That upon all occaſions he would be more rea<g ref="char:EOLhyphen"/>dily ſuppli'd with Money: Theſe Conſiderations alone are of no ſmall Concernment to the Na<g ref="char:EOLhyphen"/>tion;
+<pb n="24" facs="tcp:206199:15"/> for the more eaſily the Government can be maintain'd, the leſs Taxes will be want<g ref="char:EOLhyphen"/>ting.</p>
+               <p>It would be unneceſſary to add any more upon this Head, which relates to Trade.</p>
+               <p>I make no doubt, but the Rea<g ref="char:EOLhyphen"/>ſons alledg'd, will convince the Merchant, and Trades-man, That a further Abatement of Intereſt will be no prejudice to them, but will highly advance their Cal<g ref="char:EOLhyphen"/>ling. I proceed now to the next thing propounded to the Conſi<g ref="char:EOLhyphen"/>deration of the Reader, wherein I ſhall endeavour to ſatisfie the Landed-man, That to leſſen Uſury, will be of very great advantage to him, by raiſing the Value of Land in Purchaſe; and by ena<g ref="char:EOLhyphen"/>bling his Tenants to give more for his Farm, or at leaſt to pay his Rents fooner.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="25" facs="tcp:206199:15"/>
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>That Abatement of Intereſt will raiſe the Value of Land.</p>
+               </argument>
+               <p>THE inſeparable Affinity betwixt Trade and Land, is ſo obvious to every Man's un<g ref="char:EOLhyphen"/>derſtanding, that I think it will not be deni'd, but when Trade flouriſheth, Land always bears a good price, and the Landlord's Rents are well paid. When Trade decays, Rents are never well paid, and the price of Land falls too; on the other hand, when Rents fall, and Farmers break, then Shopkeepers fail, and Merchants give over. The Inte<g ref="char:EOLhyphen"/>reſt of one is ſo interwoven with the others, that it cannot be ill with Trade, but Land will fall; nor ill with Land, but Trade will feel it. This Obſervation is by
+<pb n="26" facs="tcp:206199:16"/> experience found ſo true, that no Trader or Landed-man can make the leaſt doubt of it.</p>
+               <p>That Land in <hi>England</hi> hath riſen in value, as Intereſt hath<note place="margin">Diſcourſe of Trade.</note> been abated, is matter of fact, and every Owner of Land can beſt judge of this; look but into your Anceſtors Deeds of Pur<g ref="char:EOLhyphen"/>chaſe made Seventy years ago, and you will find that Land was then fold for 10 or 12 years Purchaſe; but an enquiry into the groſs Sum of Money paid, will be more exact, and leſs fallible, than to make an eſtimate by the years Purchaſe; for many Farms have been of late years ſo rackt up in Rents, that it may be they will not yield more years purchaſe now, according to the preſent Rents, than they would have done many years paſt, and yet may double the Money they were then bought or ſold
+<pb n="27" facs="tcp:206199:16"/> for, becauſe the Rents might be much leſs then.</p>
+               <p>Where Uſe for Money is high, Land is cheap in other parts of the World, as well as in <hi>England,</hi> and it muſt be ſo; that it is ſo, <hi>Spain, Scotland,</hi> and <hi>Ireland,</hi> do abun<g ref="char:EOLhyphen"/>dantly atteſt; in thoſe Kingdoms Intereſt is high, and Land cheap. In <hi>Italy</hi> and <hi>Holland,</hi> Uſury is lower and Land dearer.</p>
+               <p>That it muſt be ſo, according to the rate of Intereſt, is evident from Reaſon; for who are ſo ſtu<g ref="char:EOLhyphen"/>pid as to give more than Ten or Twelve years purchaſe for Land, if Intereſt was at 10 <hi>per Cent.</hi> when at ſingle Intereſt they may double their Money in ten years? If high Intereſt brings down the price of Land, certainly low Intereſt muſt raiſe it.</p>
+               <p>Whilſt Uſe is at 6 <hi>per Cent.</hi> (eſpecially when Land is loaded
+<pb n="28" facs="tcp:206199:17"/> with Taxes) few will buy; the Intereſt of Money being at leaſt 2 <hi>per Cent.</hi> more than the Rent of Land.</p>
+               <p>If Intereſt be reduced to Four in the hundred, it would not ſo much over-run the Rent of Land, and conſequently more Men would be inclin'd to buy, and could affored to give a better price than now they can; for Intereſt fets the price in buying and ſelling Land.</p>
+               <p>If Uſury was reduced to Four in the Hundred, we might reaſon<g ref="char:EOLhyphen"/>ably enough expect, that 10 <hi>l. per Ann.</hi> in Land (being now worth 200 <hi>l.</hi>) would within few years be worth 300 <hi>l.</hi> the diſproportion betwixt the Rent of Land, and In<g ref="char:EOLhyphen"/>tereſt of Money being ſo much leſs; and the value of Money being thereby ſo conſiderably a<g ref="char:EOLhyphen"/>bated.</p>
+               <p>That 300 <hi>l.</hi> at 4 <hi>per Cent.</hi> in twenty years will bring in no more
+<pb n="29" facs="tcp:206199:17"/> than 200 <hi>l.</hi> at 6 <hi>per Cent.</hi> in twenty years doth now.</p>
+               <p>And there is great Reaſon, that the exchange betwixt Land, Mo<g ref="char:EOLhyphen"/>ney, and Goods, ſhould be even; for why ſhould the Country Gen<g ref="char:EOLhyphen"/>tlemen give 6 <hi>per Cent.</hi> for Money or Goods, when his Land will bring in but four? I believe I might ſay, not three at this time; why ſhould the Gentleman pay 2 <hi>per Cent.</hi> more for all the Goods he buys of the Merchant, <hi>viz.</hi> for Silks, Linnen, <hi>&amp;c.</hi> than the Mer<g ref="char:EOLhyphen"/>chant gives for his Wooll, Corn, or Cattel? This being the Caſe, I do not queſtion but the Nobility and Gentry, having ſo great a ſhare in Parliament, will in due time, before it be too late, reflect upon the great odds in the ex<g ref="char:EOLhyphen"/>change, and promote a Law to regulate the Ballance; ſuch a Law will certainly prevent many noble Mannors and goodly Farms, from
+<pb n="30" facs="tcp:206199:18"/> being ſo quickly devour'd by Tay<g ref="char:EOLhyphen"/>lor's and Mercer's Bills; for Gen<g ref="char:EOLhyphen"/>tlemen may then expend more, pay better, and run into Debt leſs.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>That it will improve Rents, or at leaſt enable the Farmer to pay his Rent better.</p>
+               </argument>
+               <p>THat an Abatement of Intereſt will improve Rents, or at leaſt enable the Farmer to pay his Rent better, than he can whilſt Money is at 6 <hi>per Cent.</hi>
+               </p>
+               <p>It will raiſe the Rent of ſome Eſtates, and keep up the Rent of others: For the Farmer muſt make up his Accounts as the Merchants do. The Intereſt of the Stock muſt be reckon'd, as well as the Rent of Land; ſo that the taking 2 <hi>l.
+<pb n="31" facs="tcp:206199:18"/> per Cent.</hi> from the Stock, being added to the Rent of the Land, ſo much is the Rent of the Land rais'd, or the Farm ſo much the cheaper to the Tenant. As for inſtance, a Farm that is now worth 50 <hi>l. per Ann.</hi> and requires 300 <hi>l.</hi> to Stock it, will be worth 56 <hi>l. per Annum,</hi> when Intereſt is re<g ref="char:EOLhyphen"/>duced to four in the Hundred; there being Six pounds a year ta<g ref="char:EOLhyphen"/>ken from the Stock, and added to the Rent; and the Farmer ſhall make the ſame account of profit from the Farm, as he doth now In<g ref="char:EOLhyphen"/>tereſt is at 6 <hi>per Cent.</hi>
+               </p>
+               <p>Intereſt being ſo high<note place="margin">Diſcourſe of Trade.</note> in <hi>England,</hi> is the cauſe of the fall of Rents; for Trade being thereby confin'd to a quick return, and the Merchant not being able to lay up any quantity of Goods, he exports leſs of our own growth; and the plenty of our Native Stock brings down
+<pb n="32" facs="tcp:206199:19"/> the Rent of Land; for the Rent of Land that produceth the Stock, muſt fall, as the price of the Stock doth. Whereas, if Intereſt was at 4 <hi>per Cent.</hi> it would make the Rent more certain, and raiſe the value of Land.</p>
+               <p>If Uſury was at Four in the hundred, there would always be a Magazine of Corn and Wooll in <hi>England,</hi> which would be a great advantage to the Farmer; for there are years of plenty and ſcarcity; and there are more Far<g ref="char:EOLhyphen"/>mers<note place="margin">Diſcouſe of Trade.</note> undone in plentiful years, than recover themſelves in years of ſcarcity; for when the price is very low, the Crop will not pay the charge of Plowing, Sowing, Reaping, Thraſhing, and carrying to the Market; and when it is dear, all Farmers, that loſt by Plenty, are not ſo fortunate as to have a Crop: Now, if Intereſt was at 4 <hi>per Cent.</hi> Corn and Wooll
+<pb n="33" facs="tcp:206199:19"/> in years of plenty would be bought and laid up to be ſold in years of ſcarcity. And by this means the buying in years of plenty, would keep the price from falling too low; and the ſelling in years of ſcarcity, would prevent it from riſing too high, whereby Corn and Wooll would always be bought and ſold at a moderate price, and the Farmer's Stock and the Rent of Land would be more certain.</p>
+               <p>Eſtates let in Leaſes, whether for Lives or Years, will be very much advanced by low Intereſt; for the Tenant being furniſht more readily and eaſily with Money, may afford to renew oftner, and give greater Fines, and will be enabled to pay his yearly Rent more punctually than now he can.</p>
+               <p>The Clergy, as well as Gentry, Tradeſmen and Farmers, will e<g ref="char:EOLhyphen"/>qually
+<pb n="34" facs="tcp:206199:20"/> find the benefit of 4 <hi>per Cent.</hi> the Tythe of all Improve<g ref="char:EOLhyphen"/>ments being their Inheritance, will flow in plentifully to them with<g ref="char:EOLhyphen"/>out Fraud or Murmur, when the Farmer can well afford it; ſuch of them as enjoy Church-Leaſes may juſtly enough, and without oppreſſing their Tenants, enlarge their Fines; whereas otherwiſe they can hardly expect to keep up the preſent reſerv'd Rents, and I fear they are very ſenſible that Tenants come in ſlowly to renew.</p>
+               <p>I might upon this head properly enough, and without much diffi<g ref="char:EOLhyphen"/>culty ſhew, That to lower Intereſt will very much encourage and promote Building; for Houſes would be built Cheaper, and let Dearer; that it would be a great invitation to improve Lands by good Husbandry; that it would multiply Artificers, and revive our dying Manufactures, and put Ar<g ref="char:EOLhyphen"/>tizans
+<pb n="35" facs="tcp:206199:20"/> upon ſeeking out ways of making ſuch Commodities as we daily ſpend, and buy from Foreign parts, tho we are, or may be accommodated with them at home. But ſo many ingenious Pieces are in print (which the Reader may every where be furniſht with) that it would be a needleſs Repe<g ref="char:EOLhyphen"/>tition to paſs through all theſe Branches, which have been ſo well handled by others long ſince.</p>
+               <p>The great Incumbrances of Gen<g ref="char:EOLhyphen"/>tlemens Eſtates, of what pernicious conſequence they have been, and muſt be to the whole Kingdom, is manifeſt enough. For if Gentle<g ref="char:EOLhyphen"/>men become inſolvent, or but bad Pay-maſters; Tradeſmen, who are forced to depend upon them, muſt be ſo too: When the charge upon Land is light, and Rents well paid, then the Nobili<g ref="char:EOLhyphen"/>ty and Gentry (who have always been the conſtant ſupport of the
+<pb n="36" facs="tcp:206199:21"/> Crown) will be abler to ſerve the King, both with Purſe and Perſon, and would recover that Power and Reputation in their Countries which formerly they had; on the other hand, if the Nobility and Gentry ſhould be ſo weakened in their Eſtates and Credits that they could contribute little to the Aid and Aſſiſtance of the Prince; what could we expect, but that our Peace muſt ſoon be diſturb'd, the Government ſhaken, and the King<g ref="char:EOLhyphen"/>dom ruin'd? This Conſideration is of no ſmall Importance; for it is ſcarcely imaginable, that the In<g ref="char:EOLhyphen"/>tereſt of the Landed-men ſhould at any time be ſever'd from that of the Crown; becauſe Land being viſible and immoveable, is always moſt reſponſible to the Law. I hope this Digreſſion will not ſeem impertinent, tho it neither relates to the value or Rent of Land.</p>
+               <pb n="37" facs="tcp:206199:21"/>
+               <p>I will in this place only offer one thing more to be conſider'd by the Landed-men. Suppoſe a Gen<g ref="char:EOLhyphen"/>tleman that hath 600 <hi>l. per Annum,</hi> ſhould have 300 <hi>l. per Annum</hi> in his hands, and hath no Money to ſtock it with; will not his Circum<g ref="char:EOLhyphen"/>ſtances be very hard to borrow at 6 <hi>per Cent.</hi> when it is too well known, that he cannot with all his care and trouble make the Rent of his Land, in many places half; will he not let his Land lye untill'd, and without ſtock, rather then run himſelf into Debt? That a great part of the Land in <hi>England</hi> is now untenanted, I appeal to all thoſe who have any ſhare or Intereſt in it. Is it not therefore high time to enable the Fere-holder to manage it at a more eaſy Charge? And will not an Abatement of Intereſt do it?</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="38" facs="tcp:206199:22"/>
+               <head>CHAP. IV.</head>
+               <argument>
+                  <p>The Objections againſt the Abate<g ref="char:EOLhyphen"/>ment of Intereſt, fairly ſtated, and clearly anſwer'd.</p>
+               </argument>
+               <p>HAVING, by what hath been alledg'd in the forego<g ref="char:EOLhyphen"/>ing Chapters, endeavour'd to maintain, (and I hope, to the ſa<g ref="char:EOLhyphen"/>tisfaction of the Readers) That the leſſening of Uſury to 4 <hi>per Cent.</hi> will increaſe Trade, and raiſe the value of Land, and keep up Rents; I intend in this, to ſtate the Objections fairly, (which are commonly made againſt it) and will ſtudy to anſwer them as plain<g ref="char:EOLhyphen"/>ly and fully as I can in ſo ſhort a diſcourſe.</p>
+               <div n="1" type="objection_and_answer">
+                  <head>Object. 1. <hi>That Foreigners will call in their Loans.</hi>
+                  </head>
+                  <pb n="39" facs="tcp:206199:22"/>
+                  <p>
+                     <hi>Anſw.</hi> In this Objection Four things ſeem to be inſinuated, <hi>viz.</hi> 1. That an high Intereſt (be<g ref="char:EOLhyphen"/>ing ſo great an invitation to lend) doth fill any Countrey with Money. 2. That we are now ſuppli'd with abundance, by Mer<g ref="char:EOLhyphen"/>chants beyond the Seas. 3. That it is for our advantage to borrow from them. And laſtly, That, if Intereſt be leſſen'd, they will call it in. If any of theſe be falſe, the Objection is then out of doors; for my part, I can ſcarce<g ref="char:EOLhyphen"/>ly believe any of the Four Inſi<g ref="char:EOLhyphen"/>nuations true.</p>
+                  <p>If high Intereſt fills any Coun<g ref="char:EOLhyphen"/>trey with Money, what is the reaſon, that in <hi>Ireland, Scotland,</hi> and <hi>Spain,</hi> and other parts of the World (where Intereſt hath been, and is High) they have ſo little? And how comes it to paſs, That in <hi>Italy,</hi> and <hi>Holland,</hi> Money is
+<pb n="40" facs="tcp:206199:23"/> ſo plentiful where Intereſt is much lower?</p>
+                  <p>How much Money is lent by Fo<g ref="char:EOLhyphen"/>reigners, is not eaſie to find out; the greateſt part (I gueſs) comes from the <hi>Dutch</hi> Merchants, and very pro<g ref="char:EOLhyphen"/>bable it is, it may be paid in by Bills of Exchange; which way of lending doth not bring in Gold or Silver; for if one Engliſh man lend to a<g ref="char:EOLhyphen"/>nother Engliſh-man, (be the In<g ref="char:EOLhyphen"/>tereſt high or low) between them Two, nothing is got or loſt to the Nation: But if Foreigners do tranſmit over Gold or Silver, it is no advantage to us to borrow; for in all Loans the Gain is the Lenders, not the Borrowers; As for inſtance, If the Dutch lend to the Engliſh an 100000 <hi>l.</hi> and let it continue here till it comes to 200000 <hi>l.</hi> they at length carry home both Principal and Intereſt, which Intereſt is a clear loſs to the Nation, and a manifeſt Gain to
+<pb n="41" facs="tcp:206199:23"/> the <hi>Dutch.</hi> After all, Why ſhould we imagine the <hi>Dutch</hi> will call in their Debts here, to put it out for leſs there? Certainly they will not be ſo extravagant: The uſual reply to this is, That their Security is better: Truly, I can<g ref="char:EOLhyphen"/>not ſay ſo, unleſs they were as ſafe from the <hi>French,</hi> as they are ſe<g ref="char:EOLhyphen"/>cure in their Titles from Law-Suits, by the help of a Regiſtry: I rather think they will be glad (whilſt the <hi>French</hi> do daily ap<g ref="char:EOLhyphen"/>proach nearer and nearer to them) to tranſmit more hither.</p>
+                  <p>But if, upon lowering of In<g ref="char:EOLhyphen"/>tereſt, they ſhould call it home; it would be better for the Nation if they did; for then, perhaps they will draw back their Effects in our Native Commodities.</p>
+               </div>
+               <div n="2" type="objection_and_answer">
+                  <head>Object. 2. <hi>That the value of the principal Money will be abated, by leſſening the Intereſt; ſo that every
+<pb n="42" facs="tcp:206199:24"/> Man, whoſe whole Eſtate is in Mo<g ref="char:EOLhyphen"/>ney, will by ſuch a Law, loſe a Third part of it.</hi>
+                  </head>
+                  <p>
+                     <hi>Anſw.</hi> This is a great miſtake; for the lowering of the Inte<g ref="char:EOLhyphen"/>reſt a Third, will not leſſen the value of the Principal; for an 100 <hi>l.</hi> will buy as much Goods (of ſome ſort more) after ſuch a Law is made, as it would before; it will buy as much Corn, Wool, Cloath, and all things elſe, as now, except Land; for the lower<g ref="char:EOLhyphen"/>ing of Intereſt will chiefly fall upon foreign Stock, or Wares; and the Merchant may afford to ſell his Goods 2 <hi>per Cent.</hi> Cheaper, and will gain as much by them, as he did, when Money was at 6 <hi>per Cent.</hi> and almoſt ¾ of every Gentle<g ref="char:EOLhyphen"/>man's Fxpence is in Foreign Wares, as Wine, Spices, Silks, Linnen, <hi>&amp;c.</hi> In ſuch Goods there will be 2 <hi>per Cent.</hi> ſav'd in the Price; ſo
+<pb n="43" facs="tcp:206199:24"/> that they may then maintain themſelves almoſt as well with 40 <hi>l.</hi> a year, as they can now with 60 <hi>l.</hi>
+                  </p>
+                  <p>But, what if the Principal ſhould ſink in value? Is all the Caſh in the Kingdom equivalent to the va<g ref="char:EOLhyphen"/>lue of all the Land in <hi>England?</hi> No certainly; for I have very good reaſon to believe, that all the Coin in the Nation doth not exceed Ten Millions, and the Annual Rents of <hi>England</hi> are at leaſt Twelve; (as I could eaſily make appear, if there was occaſion for it) and conſe<g ref="char:EOLhyphen"/>quently, the Land of <hi>England</hi> at Twenty years Purchaſe, is worth above Twenty times more than the Money; wherefore it is not difficult to know, which is moſt for the advantage of <hi>England,</hi> to keep up the Intereſt of Money, or to raiſe the Value of Land.</p>
+               </div>
+               <div n="3" type="objection_and_answer">
+                  <head>
+                     <pb n="44" facs="tcp:206199:25"/>Object. 3. <hi>That ſuch as are indebt<g ref="char:EOLhyphen"/>ed, will not be able to take up Mo<g ref="char:EOLhyphen"/>ney to pay off their Debts, and ſo will be put to great Streights and Difficul<g ref="char:EOLhyphen"/>ties, and many will be undone, and ruin'd.</hi>
+                  </head>
+                  <p>
+                     <hi>Anſw.</hi> This Objection would have ſome weight in it, if the Law to abate Intereſt, ſhould reſpect Contracts already made; but to me, that ſeems, upon many Accounts, ſo unreaſonable, that I fancy no Gentleman doth in<g ref="char:EOLhyphen"/>tend to aim at it: And if the Bill reſpect only Contracts to be made after what time the Parliament ſhall in their Wiſdom think fit, then ſuch a Law will be ſo far from prejudicing the Debtor, that it will be an help to him; for, if he can pay off his Debt, he may, by borrowing of another at 4 <hi>per Cent.</hi> and if he cannot, no doubt, but the Creditor will be very
+<pb n="45" facs="tcp:206199:25"/> willing to let his Money continue upon the ſame Security, at 6 <hi>per Cent.</hi> rather than call in his Mo<g ref="char:EOLhyphen"/>ney, to put it out for 4.</p>
+               </div>
+               <div n="4" type="objection_and_answer">
+                  <head>Object. 4. <hi>That they who want Money, ſhall not be truſted upon Per<g ref="char:EOLhyphen"/>ſonal Security, which will very much obſtruct, and hinder Trade; for a great part of the Trade of the Na<g ref="char:EOLhyphen"/>tion is carry'd on with Money, bor<g ref="char:EOLhyphen"/>row'd upon ſuch Security: And <g ref="char:V">Ʋ</g>ſu<g ref="char:EOLhyphen"/>rers will rather keep their Money by them, than lend upon ſuch Terms.</hi>
+                  </head>
+                  <p>
+                     <hi>Anſwer.</hi> The Reaſon why any Man ſhould lock up his Money, and expect a better Advantage, when the Law hath reduc'd it to Four in the Hundred, I cannot well ſee. 4 <hi>per Cent.</hi> is no con<g ref="char:EOLhyphen"/>temptible Intereſt, it is more than Land produceth; and what grea<g ref="char:EOLhyphen"/>ter Advantage can any Man then expect, unleſs it be to lay it out in
+<pb n="46" facs="tcp:206199:26"/> Trade? if ſo, it will rather promote Trade, than obſtruct, or hinder it; or he muſt Purchaſe, or Build, which are the proper Channels into which we deſire to turn his Mo<g ref="char:EOLhyphen"/>ney.</p>
+                  <p>Trades-men will be ſuppli'd ſooner than now they are; for there will be fewer Borrowers.</p>
+                  <p>The value of Land being rais'd, the Debts upon it will be ſooner diſcharg'd; and there being leſs occaſion for Money to be lent up<g ref="char:EOLhyphen"/>on Land, it will the more eaſily be borrow'd by Trades-men and others.</p>
+                  <p>If the Security was weaken'd by leſſening the Uſury, then we might juſtly fear Trades-men would not be furniſh'd with Mo<g ref="char:EOLhyphen"/>ney at 4 <hi>per Cent.</hi> But the Abate<g ref="char:EOLhyphen"/>ment of Intereſt is ſo far from ma<g ref="char:EOLhyphen"/>king the Secutity weaker, that it will be ſafer to Truſt, when In<g ref="char:EOLhyphen"/>tereſt is at 4 <hi>per Cent.</hi> than whilſt
+<pb n="47" facs="tcp:206199:26"/> it is at Six; for the Trades-men will drive a greater Trade, and muſt gain more, and ſo will ſooner be able to pay the Intereſt and Principal, than now he can.</p>
+                  <p>The reaſon aſſign'd againſt 4 <hi>per Cent. viz.</hi> Becauſe Trades-men are neceſſitated to borrow, is a very ſtrong Argument for it, and was thought ſo by the Parliament in the 21 <hi>Jacob.</hi> and by that in the <hi>12th. Carol.</hi> 2. as you may ſee in the Preamble to thoſe Acts for leſſening Uſury: If this be of any force now againſt 4 <hi>per Cent.</hi> it was as ſtrong againſt bringing Uſury at that time from Ten to Eight, and againſt redu<g ref="char:EOLhyphen"/>cing it from Eight to Six: We find this Objection did not ſway with the Parliament then; and we find by Seventy years Experience, that the Abatement of Intereſt hath been very beneficial, and that the Money'd Man hath conſtantly ſub<g ref="char:EOLhyphen"/>mitted
+<pb n="48" facs="tcp:206199:27"/> to the Uſe let by Law, and ſoon ceas'd to be ſullen, not ſcru<g ref="char:EOLhyphen"/>pling to truſt the Trades-man; and therefore, why ſhould we fear now he will not?</p>
+               </div>
+               <div n="5" type="objection_and_answer">
+                  <head>Object. 5. <hi>That it is now unſea<g ref="char:EOLhyphen"/>ſonable, Money being ſcarce.</hi>
+                  </head>
+                  <p>
+                     <hi>Anſw.</hi> To this Objection I an<g ref="char:EOLhyphen"/>ſwer thus, That Money is not ſcarce; but if it be, the taking off Two in the Hundred, will not make it ſcarcer.</p>
+                  <p>That Money is not<note place="margin">Diſcourſe of Trade.</note> ſcarce, is evident from hence; We give ⅓ more with Ap<g ref="char:EOLhyphen"/>prentices, than Thirty years ago: We Ship off one Third more of Manufactures, than we did 30 years paſt: Houſes new built in <hi>London</hi> ſince the <hi>Fire,</hi> yield double the Rent they did before: The ſpeedy, and coſtly Building of the City is a convincing and an amazing Argu<g ref="char:EOLhyphen"/>ment of the Plenty, and late In<g ref="char:EOLhyphen"/>creaſe
+<pb n="49" facs="tcp:206199:27"/> of Money in <hi>England:</hi> We have now more than double the number of Merchants Ships we had Thirty years paſt.</p>
+                  <p>I cannot deny, but in the Coun<g ref="char:EOLhyphen"/>trey, Money is very ſcarce; for which, theſe Reaſons may be aſ<g ref="char:EOLhyphen"/>ſign'd;</p>
+                  <p>1. The great reſort of the No<g ref="char:EOLhyphen"/>bility and Gentry to <hi>London;</hi> their ſpending little amongſt their Tenants, and returning their Rents up.</p>
+                  <p>The Second proceeds from the quick payments of the Taxes, and from the conſtant practice of bringing up the Money in Wa<g ref="char:EOLhyphen"/>gons to <hi>London,</hi> which misfortune cannot be avoided, unleſs the Counties could return in Cattel, Corn, or other Goods, ſuch Sums as they pay towards the Charge of the Government; for the Bal<g ref="char:EOLhyphen"/>lance muſt be made even with Money: As for inſtance, if the
+<pb n="50" facs="tcp:206199:28"/> County of <hi>Lincoln</hi> pay 100000 <hi>l.</hi> within the ſpace of Twelve Months, for Taxes, and cannot make out above 80000 <hi>l.</hi> in Goods, the re<g ref="char:EOLhyphen"/>maining 20000 <hi>l.</hi> muſt be made up in Money.</p>
+                  <p>Money is not ſo much wanting in <hi>England,</hi> as ſuch Security as Money'd Men will require, eſpe<g ref="char:EOLhyphen"/>cially for great Sums.</p>
+                  <p>The <hi>Eaſt-India</hi> Company have taken up very great Sums at 4 <hi>per Cent.</hi> The Goldſmiths in <hi>London</hi> could have had (and, I believe, may ſtill) what Money they would, upon their Servants Notes, only at 4 <hi>l.</hi> or 4 <hi>l. 10 s.</hi> in the Hun<g ref="char:EOLhyphen"/>dred.</p>
+                  <p>No Gentleman finds any want of Money, if he will give Land-ſecurity: 'Tis very well known, that many Thouſands have, with<g ref="char:EOLhyphen"/>in theſe few years, been lent to Gentlemen at 4 <hi>l.</hi> in the Hundred, and any Man may now have at 5 <hi>l.</hi>
+                     <pb n="51" facs="tcp:206199:28"/> upon Real Security; ſo that we ſeem ripe enough, and throughly prepared for a farther abatement of Uſury.</p>
+                  <p>To take off 2 <hi>l.</hi> in the Hundred, will not make Money more ſcarce, for ſuch a Law would not leſſen the Money, tho it would abate the Intereſt; but the contrary is moſt true, the lowering of In<g ref="char:EOLhyphen"/>tereſt will make it more plenti<g ref="char:EOLhyphen"/>ful; for low intereſt increaſeth trade, and trade increaſeth money; for Bullion is a foreign Commo<g ref="char:EOLhyphen"/>dity, and brought in by trade.</p>
+                  <p>Another reaſon why money ſeems ſcarce, is the Banking it up, which obſtructs the circulation, advanceth Uſury by rendring it ſo eaſie, that moſt men as ſoon as they can make up 50 <hi>l.</hi> lend it to the <hi>Goldſmiths;</hi> which Trade of Bankering doth and will occaſion that fatal preſſing neceſſity for money throughout the whole Kingdom.</p>
+                  <pb n="52" facs="tcp:206199:29"/>
+                  <p>Money will not lye ſo long dead, if Intereſt be abated, as it doth now; for the Gain being ſo much the leſs, the Uſurer will ſtrive to put it out as ſoon as may be.</p>
+               </div>
+               <div n="6" type="objection_and_answer">
+                  <head>Object. 6. <hi>That the Exchequer will draw in all or the greateſt part of the Caſh of the Kingdom.</hi>
+                  </head>
+                  <p>
+                     <hi>Anſw.</hi> This Objection is foun<g ref="char:EOLhyphen"/>ded upon a preſumption, that an higher Intereſt than Four in the Hundred muſt be allowed to thoſe who lend Money to the Crown upon an Act of Parliament: I doubt not but the Parliament in their Wiſdom will think it highly reaſonable that it ſhould be ſo; and what miſchief will follow from thence? Will more Money be lent than what the Parliament ſhall give the King Credit for? No certainly; but this benefit the King will receive by ſuch a Law,
+<pb n="53" facs="tcp:206199:29"/> whatſoever Money the Parliament ſhall find neceſſary to be anticipa<g ref="char:EOLhyphen"/>ted upon a borrowing Clauſe, ſhall ſooner be brought in; and that will be of great uſe to the Nation; ſo that what is here urged againſt leſſening Uſe, is when well weigh<g ref="char:EOLhyphen"/>ed a very ſtrong reaſon for it; but what if Money ſhould flow in, will it not find a way out? Have we any ground to fear, it will be lockt up there? I am ſure there is no ſuch danger in time of Peace, and much leſs during a chargeable War.</p>
+               </div>
+               <div n="7" type="objection_and_answer">
+                  <head>Object. 7. <hi>That Widows and Or<g ref="char:EOLhyphen"/>phans will ſuffer much by an abate<g ref="char:EOLhyphen"/>ment of Intereſt; Thoſe who have Sixty Pound a year for a</hi> 1000 l. <hi>will then have but Forty.</hi>
+                  </head>
+                  <p>
+                     <hi>Anſw.</hi> I anſwer thus: This will not be a general prejudice, becauſe they are few in number in reſpect
+<pb n="54" facs="tcp:206199:30"/> of the whole Nation; for they are ſcarcely one to twenty of the whole People, and of thoſe not one in Forty will ſuffer by an a<g ref="char:EOLhyphen"/>batement of Intereſt, for theſe reaſons; many of them have Land or Annuities, and ſuch perſons may gain more by the riſe of Land, than they will loſe by the fall of Uſe-money.</p>
+                  <p>Many Executors allow Orphans no Intereſt, and yet juſtifie them<g ref="char:EOLhyphen"/>ſelves by Law; to ſuch Orphans it will be no damage to leſſen the Legal Rate of Intereſt.</p>
+                  <p>Their Portions will be of the ſame eſteem, and of the ſame va<g ref="char:EOLhyphen"/>lue to buy every thing (except Lands) and they were never given them with that intent; for then their Parents might as well have given them Lands: So that it is only the income of their Portions that will be leſſened, and that but for a ſhort time, till the young
+<pb n="55" facs="tcp:206199:30"/> men ſet up their Trades, or till the Maidens or Widows marry.</p>
+                  <p>But how ſevere ſoever the low<g ref="char:EOLhyphen"/>ering of Intereſt from Six to Four in the Hundred may be to Wi<g ref="char:EOLhyphen"/>dows, Orphans, or younger Bro<g ref="char:EOLhyphen"/>thers; yet they will have as much Rent for their Money, as the Gen<g ref="char:EOLhyphen"/>try and their Elder Brothers have for their Land; for the Land of <hi>England</hi> doth not yield Four in the Hundred.</p>
+                  <p>After Intereſt is reduced to Four in the hunnred, many will leave their Children Annuities, or Eſtates, running in Trade (as they do in <hi>Holland</hi> and <hi>Italy</hi>) whereby the abatement of Inte<g ref="char:EOLhyphen"/>reſt will become profitable not prejudicial to them, and advanta<g ref="char:EOLhyphen"/>geous to the whole Nation by en<g ref="char:EOLhyphen"/>larging Trade.</p>
+               </div>
+               <div n="8" type="objection_and_answer">
+                  <head>Object. 8. <hi>That Gentlemen muſt give more with their Daughters for
+<pb n="56" facs="tcp:206199:31"/> Portions, by which means a great part of the Inheritance of ſuch Gentlemen's Eſtates will be leſſen'd and more in<g ref="char:EOLhyphen"/>cumber'd.</hi>
+                  </head>
+                  <p>
+                     <hi>Anſw.</hi> This Objection is foun<g ref="char:EOLhyphen"/>ded upon a Suppoſition, that the value of the Principal Money is ſunk, and therefore they muſt give greater Portions; but that is a miſtake; for 1000 <hi>l.</hi> will be as much valued by a Trades-man, as it is now; it will buy as much Goods (of ſome ſort more) after Uſury is abated, as it will now; Foreign Stocks or Wares may be Sold 2 <hi>l. per Cent.</hi> cheaper than now they can be afforded for; and the greateſt part of the Ladies ex<g ref="char:EOLhyphen"/>pence is in Foreign Wares; ſo that they may then maintain themſelves almoſt as well with forty Pounds a year, as they can now with threeſcore.</p>
+                  <pb n="57" facs="tcp:206199:31"/>
+                  <p>But if larger Portions ſhould be requiſite, the Gentleman will be better able to raiſe them; for his Rents will be better paid, and his Land will ſell for a third part more; ſo that his Eſtate will be leſs incumber'd then before.</p>
+               </div>
+               <div n="9" type="objection_and_answer">
+                  <head>Object. 9. <hi>Others object, That an Abatement of Intereſt by a Law, is not practicable, nor would it be conducive to the end aim'd at; tho they confeſs a low Intereſt doth moſt encourage Trade, and advance Land.</hi>
+                  </head>
+                  <p>
+                     <hi>Anſw.</hi> Some Men fancy, That ſuch a Law would be only advanta<g ref="char:EOLhyphen"/>geous to Scriveners, who will have more for Procuration and Continu<g ref="char:EOLhyphen"/>ation. If this ſhould happen (tho I ſee no reaſon for it) the Bor<g ref="char:EOLhyphen"/>rower might afford to give more to the Scrivener, when he pays leſs to the Uſurer.</p>
+                  <pb n="58" facs="tcp:206199:32"/>
+                  <p>Intereſt hath been abated twice in <hi>England</hi> by Act of Parliament, within the ſpace of fifty years, with very good ſucceſs, and great advantage to the Kingdom, and what ſhould hinder its effect now more than formerly?</p>
+                  <p>If a Law will not do it, why do the Uſurers always oppoſe the paſſing of an Act to that purpoſe? The true Reaſon ſeems to be, be<g ref="char:EOLhyphen"/>cauſe they are wiſe enough to know, that a Law will certainly do it, as it hath done already, tho they would perſwade others to the contrary.</p>
+               </div>
+               <div n="10" type="objection_and_answer">
+                  <head>Octject. 10. <hi>Many aſſert, That low Intereſt is not the Cauſe, but the effect of Riches; or otherwiſe, ſay they, Why are not all Countries rich, they having it in their Power to make themſelves ſo by a low-ſtated Intereſt by Law.</hi>
+                  </head>
+                  <pb n="59" facs="tcp:206199:32"/>
+                  <p>
+                     <hi>Anſw.</hi> That low Intereſt is the cauſe of Riches, I appeal to the Judgment of the Parliament in the 21 <hi>Jac.</hi> and of that in the 12 <hi>Car.</hi> 2. who aſcribe the decay of Trade, the fall of Rents, the diſcourage<g ref="char:EOLhyphen"/>ment of all Improvements, and good Husbandry, to the height of Intereſt; and thoſe wiſe Conſide<g ref="char:EOLhyphen"/>rations did induce them to paſs two Acts, as may be ſeen by the preamble to the Acts reducing Uſury from Ten to Eight, and from Eight to Six in the Hun<g ref="char:EOLhyphen"/>dred.</p>
+                  <p>The Authority of ſo many wiſe and worthy Patriots, and the viſi<g ref="char:EOLhyphen"/>ble uſefulneſs of thoſe Acts con<g ref="char:EOLhyphen"/>firm'd by Seventy years Experi<g ref="char:EOLhyphen"/>ence, is, I doubt not, of ſo great weight, that no Man (without im<g ref="char:EOLhyphen"/>modeſty) can deny, that low In<g ref="char:EOLhyphen"/>tereſt is the cauſe of Riches. <hi>Vide p.</hi> 31. to <hi>p.</hi> 39.</p>
+               </div>
+               <div n="11" type="objection_and_answer">
+                  <head>
+                     <pb n="60" facs="tcp:206199:33"/>Object. 11. <hi>Laſtly, ſome alledge, That all the Reaſons urged for redu<g ref="char:EOLhyphen"/>cing Intereſt to Four in the Hundred, will hold as ſtrongly againſt all <g ref="char:V">Ʋ</g>
+                        <g ref="char:EOLhyphen"/>ſury.</hi>
+                  </head>
+                  <p>
+                     <hi>Anſw.</hi> To this, I anſwer, No; for many Improvements are made with borrow'd Money, and ſeve<g ref="char:EOLhyphen"/>ral conſiderable Trades are car<g ref="char:EOLhyphen"/>ri'd on with Loans, which would fall or decay, unleſs Money could be had readily and freely.</p>
+                  <p>'Tis true, if Money'd men would lend their Money freely, and <hi>gratis</hi> upon all occaſions, then doubtleſs, Trade would flouriſh moſt, and Land be advanced to its higheſt Value; but ſince the Uſurer is not ſo publick-ſpirited, it is ne<g ref="char:EOLhyphen"/>ceſſary that a moderate Intereſt ſhould be allowed, to invite him to part with his Money frankly: but why ſo great, as to diſcourage Trade, and wholly to depreſs
+<pb n="61" facs="tcp:206199:33"/> Land, nay, to exceed the Rent of it, I ſee no occaſion. My Lord <hi>Bacon</hi> in his time (in his Eſſay upon Uſury) thought it expedi<g ref="char:EOLhyphen"/>ent, that Uſe ſhould be brought to 5 <hi>l.</hi> in the Hundred, and high<g ref="char:EOLhyphen"/>ly reaſonable that the Rent of Land ſhould always exceed the Intereſt of Money; and I am ſure, at Four in the Hundred it will not do that.</p>
+                  <p>I have now gone through all the Objections of moment, that ever I could find in Print, or meet with in Converſation; I have an<g ref="char:EOLhyphen"/>ſwered every one of them di<g ref="char:EOLhyphen"/>ſtinctly, with as much brevity and perſpicuity as poſſibly I could. If through inadvertency I have omitted any, I ask the Reader's pardon: how many more Obje<g ref="char:EOLhyphen"/>ctions ſoever may occur, this ſhort Anſwer will ſerve for all. We have often and continually felt the good
+<pb n="62" facs="tcp:206199:34"/> Effects of an Abatement of Inte<g ref="char:EOLhyphen"/>reſt, and therefore we may rea<g ref="char:EOLhyphen"/>ſonably expect the like advantage; the Objections were the ſame then as now, and can have no greater force, nor be of worſer con<g ref="char:EOLhyphen"/>ſequence.</p>
+                  <p>I wiſh what is ſaid, may give ſatisfaction; if it doth not, I hope this Subject (which is of ſo general concernment, and publick uſe to the whole Nati<g ref="char:EOLhyphen"/>on) will be better handled by a more acceptable and ſucceſsful Pen.</p>
+               </div>
+            </div>
+            <div type="conclusion">
+               <head>The CONCL<g ref="char:V">Ʋ</g>SION.</head>
+               <p>THE raiſing the value of Land at this time ſeems moſt neceſſary, the Nation being engaged in ſuch a chargeable War: For the Land is the Fund that ever hath maintain'd, and muſt ſtill ſupport and preſerve the
+<pb n="63" facs="tcp:206199:34"/> Government. Have not all our late Taxes been raiſed upon Land, Exciſe, Cuſtoms upon Home-Commodities (which Duty ari<g ref="char:EOLhyphen"/>ſeth from the product of Land) or Impoſitions upon foreign Goods; the laſt of which doth, tho not ſo immediately fall upon Land? For the Gentry, and conſumer of fo<g ref="char:EOLhyphen"/>reign Wares muſt pay at leaſt ſo much dearer as the Duty a<g ref="char:EOLhyphen"/>mounts to.</p>
+               <p>If the Charge of our Govern<g ref="char:EOLhyphen"/>ment, and Defence, ſhould in<g ref="char:EOLhyphen"/>creaſe (as they have lately) and I am afraid muſt ſtill, the Power of <hi>France</hi> being ſo formidable; and ſhould Their Majeſties Cu<g ref="char:EOLhyphen"/>ſtoms decline (as they muſt, un<g ref="char:EOLhyphen"/>leſs we have a free and uninter<g ref="char:EOLhyphen"/>rupted Trade at Sea) then I would gladly be informed from any Pro<g ref="char:EOLhyphen"/>jector, how this happy Settlement can be kept up, or the <hi>French</hi> kept out, without a General Exciſe, or
+<pb n="64" facs="tcp:206199:35"/> an Extraordinary great and laſt<g ref="char:EOLhyphen"/>ing Land-Tax? Money muſt be granted in proportion to future Exigencies (how great ſoever they may be.)</p>
+               <p>There is no true <hi>Engliſhman</hi> but will chearfully give his Money, when Life, Fortune, and Family are at Stake.</p>
+               <p>I need not remind any Gentle<g ref="char:EOLhyphen"/>man how Rents fall, and Tenants break, tho very honeſt and indu<g ref="char:EOLhyphen"/>ſtrious.</p>
+               <p>But one thing I deſire all Gen<g ref="char:EOLhyphen"/>tlemen (eſpecially ſuch who have no Places) to conſider ſeriouſly, in what manner, after what poor fa<g ref="char:EOLhyphen"/>ſhion they muſt live, if but half of their Eſtates be thrown into their own hands; I doubt they will find it very difficult to ſtock that half, and when Taxes and all other Charges are paid, and the uſual deductions made (not to rec<g ref="char:EOLhyphen"/>kon Caſualties) I fear they will ſee very little Money.</p>
+               <pb n="65" facs="tcp:206199:35"/>
+               <p>Nothing but an abatement of Intereſt can effectually reach the Uſurer, who muſt otherwiſe grow rich in time of War, whilſt others labour under heavy preſſures.</p>
+               <p>In a word; no Law can be of greater advantage to the Nation, than an Act to reduce Intereſt to 4 <hi>l. per Cent.</hi> it will produce the moſt general good with the leaſt private diſadvantage; it will give great ſatisfaction to the whole Kingdom; it will make an abun<g ref="char:EOLhyphen"/>dant recompenſation for the Great Taxes, and heavy Impoſitions, which the neceſſities of Publick Affairs have required the Parlia<g ref="char:EOLhyphen"/>ment to lay upon the People; and it will enable the Landed-men to bear exceeding Taxes, with great eaſe and chearfulneſs.</p>
+               <p>No Conſideration whatſoever hath induced me to expoſe theſe lines to publick view and cen<g ref="char:EOLhyphen"/>ſure, but the deep ſenſe I have
+<pb n="66" facs="tcp:206199:36"/> of the Free-holder's and Farmer's Poverty, the viſible decay of Trade, the proſpect of the pitiful con<g ref="char:EOLhyphen"/>dition of the Ancient Nobility and Gentry (who have not been brought up to Husbandry) if once their whole Eſtates ſhould be Untenanted; nothing elſe hath brought this Treatiſe forth; therefore I hope, if I be miſtaken in the Remedy propounded, the Candid and Ingenuous Reader will eaſily forgive me, and ac<g ref="char:EOLhyphen"/>quaint the World with a more ſpeedy and effectual way to raiſe the value of Land, and increaſe Trade.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206199:36"/>
+         </div>
+      </body>
+   </text>
+</TEI>
